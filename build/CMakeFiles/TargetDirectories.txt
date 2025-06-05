@@ -1,0 +1,3 @@
+/home/sebas/Escritorio/proyecto_json_c./build/CMakeFiles/main.dir
+/home/sebas/Escritorio/proyecto_json_c./build/CMakeFiles/edit_cache.dir
+/home/sebas/Escritorio/proyecto_json_c./build/CMakeFiles/rebuild_cache.dir
