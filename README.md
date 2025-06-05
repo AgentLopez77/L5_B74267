@@ -1,11 +1,11 @@
-# Proyecto: Generador de JSON en C
+# Laboratorio #5
 
-Este programa genera un archivo JSON con datos personales usando la biblioteca `cJSON`.
+En este laboratorio se genera un archivo JSON con datos personales suministrados en el enunciado usando la biblioteca `cJSON`.
 
 ## Requisitos
 
 - `gcc`, `make`, `cmake`, `meson`
-- Primero es necesario clonar la biblioteca cJSON:
+- Primero es necesario clonar la biblioteca cJSON dentro del archivo raíz:
 ```bash
 git clone https://github.com/DaveGamble/cJSON.git
 ```
